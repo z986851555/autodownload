@@ -2,8 +2,6 @@
 
 根据同一个二维码识别当前系统（iOS或Android），跳转对应App应用市场或下载界面
 
-本文测试地址：https://xiaze.github.io/autodownload/index.html
-
 一、使用场景
 
 开发了一款App，包括iOS及Android版，到了推广阶段，准备生成二维码让用户扫码下载，那这个二维码该怎么生成？iOS及Andorid各自生成一个二维码让用户区分下载？当然这种方式是可行的，但却增加了用户的使用成本！那是不是有一种方式可以通过一个二维码使手机自动下载相应App包？
@@ -22,13 +20,6 @@
 
 四、制作二维码
 
-本人推荐两个制作二维码的网址
-
-草料二维码：http://cli.im
-
-联图网：http://www.liantu.com
-
-![image](https://github.com/xiaze/autodownload/raw/master/image/jianting.png)
 如果没有个人/公司网站可以上传上述html网页文件，请继续浏览以下内容；如果已经有了相应网站，那么你可以直接制作相应二维码了。
 
 五、将网页文件上传至github，配置相关选项实现网页自动跳转
@@ -88,4 +79,3 @@
 
 ![image](https://github.com/xiaze/autodownload/raw/master/image/Snip20170804_17.png)
 
-本文测试地址：https://xiaze.github.io/autodownload/index.html
