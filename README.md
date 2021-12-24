@@ -75,7 +75,5 @@
 
 ![image](https://github.com/xiaze/autodownload/raw/master/image/Snip20170804_16.png)
 
-14. 直接在该链接后拼接之前创建的html文件即可生成最终链接，用最终链接生成的二维码就可实现自动跳转的功能了。欢迎大家通过图中二维码下载简听App哦，不过目前只有iOS版。(简听 - 懒人听网页听小说的神器)
 
-![image](https://github.com/xiaze/autodownload/raw/master/image/Snip20170804_17.png)
 
